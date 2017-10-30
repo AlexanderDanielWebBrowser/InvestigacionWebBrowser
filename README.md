@@ -10,3 +10,5 @@ Trabajo clase Investigacion WebBrowser Python
   * webbrowser.open_new_tab(url)
   * webbrowser.get(using=None)
   * webbrowser.register(name, constructor, instance=None)
+
+[Documentacion](https://docs.python.org/3.6/library/webbrowser.html)
